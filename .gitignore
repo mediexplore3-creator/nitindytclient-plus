@@ -8,3 +8,6 @@ build/
 .env
 .vscode/
 .idea/
+*.zip
+*.rar
+
